@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<market>
+    <department id = "First depart">
+        <product id="1">
+            <title>Продукт 1 </title>
+            <price>30</price>
+            <amount type="шт">10</amount>     
+        </product>
+        <product id="2">
+            <title>Продукт 2 </title>
+            <price>32</price>
+            <amount type="шт">11</amount>     
+        </product>
+        <product id="3">
+            <title>Продукт 3 </title>
+            <price>44</price>
+            <amount type="шт">28</amount>     
+        </product>        
+    </department>
+   
+    <department id="Second depart">
+        <product id="1">
+            <title>Компьютер 1 </title>
+            <price>1000</price>
+            <amount type="шт">3</amount>     
+        </product>
+        <product id="2">
+            <title>Компьютер 2 </title>
+            <price>3250</price>
+            <amount type="шт">7</amount>     
+        </product>
+        <product id="3">
+            <title>Компьютер 3 </title>
+            <price>7000</price>
+            <amount type="шт">3</amount>     
+        </product>       
+    </department>
+</market>
+
+
